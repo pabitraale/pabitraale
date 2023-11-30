@@ -1,4 +1,4 @@
-### Hello Everyone 👋
+### Hello Everyone 👋   [![](https://visitcount.itsvg.in/api?id=pabitraale&icon=0&color=3)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Python Projects and Machine Learning Project**
 - 🌱 I’m currently learning **AWS Cloud Practitioner**
@@ -6,7 +6,9 @@
 - 📫 How to reach me: pabi.amagar@gmail.com
 - 😄 Pronouns: She/Her
 
-
+<!--
+about me (I will add later)
+-->
 
 
 
@@ -22,6 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pabitraale&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pabitraale&icon=0&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
