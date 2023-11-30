@@ -1,4 +1,4 @@
-### Hello Everyone 👋   [![](https://visitcount.itsvg.in/api?id=pabitraale&icon=0&color=3)](https://visitcount.itsvg.in)
+### Hello Everyone 👋, I'm Pabitra :sparkles: [![](https://visitcount.itsvg.in/api?id=pabitraale&icon=0&color=3)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Python Projects and Machine Learning Project**
 - 🌱 I’m currently learning **AWS Cloud Practitioner**
